@@ -1,6 +1,6 @@
 # Edward's Clean down script
-# 2015-03-12
-# version 0.4
+# 2015-06-01
+# version 0.5
 
 # remove packages
 sudo apt-get -y autoremove alsa-base
@@ -19,7 +19,6 @@ sudo apt-get -y autoremove dillo
 sudo apt-get -y autoremove dosfstools
 sudo apt-get -y autoremove dpkg-dev
 sudo apt-get -y autoremove ed
-sudo apt-get -y autoremove fake-hwclock
 sudo apt-get -y autoremove fakeroot
 sudo apt-get -y autoremove fontconfig
 sudo apt-get -y autoremove fontconfig-config
