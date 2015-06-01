@@ -39,7 +39,6 @@ sudo apt-get -y autoremove gstreamer1.0-libav:armhf
 sudo apt-get -y autoremove gstreamer1.0-omx
 sudo apt-get -y autoremove gstreamer1.0-plugins-base:armhf
 sudo apt-get -y autoremove hicolor-icon-theme
-sudo apt-get -y autoremove init-system-helpers
 sudo apt-get -y autoremove iso-codes
 sudo apt-get -y autoremove java-common
 sudo apt-get -y autoremove libgpm2:armhf
