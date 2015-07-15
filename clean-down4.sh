@@ -1,6 +1,8 @@
+####################################################################################################
+# Edward Smeathers # code@smeathers.co.uk # Milton Keynes
+# 2015-06-01 # version 0.5
 # Edward's Clean down script
-# 2015-06-01
-# version 0.5
+####################################################################################################
 
 # remove packages
 sudo apt-get -y autoremove alsa-base
